@@ -1,6 +1,6 @@
 import Logo from "@/assets/logo.svg";
-import { NavItems } from "@/components/pages/dashboard/nav-items";
-import { UserDropdown } from "@/components/pages/dashboard/user-dropdown";
+import { NavItems } from "@/components/pages/dashboard/resumes/nav-items";
+import { UserDropdown } from "@/components/pages/dashboard/resumes/user-dropdown";
 import { ThemeToggle } from "@/components/shared/theme-toogle";
 import { ReactNode } from "react";
 
